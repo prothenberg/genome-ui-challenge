@@ -27,4 +27,4 @@ This repository contains a basic HTML site with an image and some copy. Your mis
 
 ## The Result
 
-*Insert your fork's documentation or a brief summary of how you completed the challenge here*
+*Insert your fork's documentation or a brief summary of how you completed the challenge here.*
