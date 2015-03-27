@@ -34,14 +34,34 @@ h1, h2 {
 	margin: 1rem 0;
 }
 
-h1 {
-	font-size: 3.5em;
+h1.panel-title, h2.panel-title {
+	
+		font-size: 2.5em;
+		color: #000;
+	
+		@media (max-width: $medium) {
+			font-size: 1.5em;
+		}
+	
+	
+}
 
-	@media (min-width: $medium) {
-		font-size: 5em;
+.panel-heading a:hover, .panel-heading a:focus {
+	text-decoration:none;	
+}
+
+.panel-body p{
+	
+	font-size: 1.4em;
+	line-height: 1.2;
+	
+	@media (max-width: $medium) {
+		line-height: 1.4;
 	}
+	
 }
 
-h2 {
-	font-size: 2.5em;
+.active {
+	background: rgba($pink, .5);
 }
+

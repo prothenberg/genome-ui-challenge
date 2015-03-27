@@ -27,4 +27,4 @@ This repository contains a basic HTML site with an image and some copy. Your mis
 
 ## The Result
 
-*Insert your fork's documentation or a brief summary of how you completed the challenge here.*
+After going back and forth between using a framework I'm comfortable with already and one I can learn by doing this, I ended up going with Bootstrap in the interest of leading with my best foot. This task did prompt me, however, to take a deep dive into SASS -- and although I didn't end up needing many of its benefits (mixins, functions, etc) for this particular project, I nonetheless appreciate the learning opportunity. 
